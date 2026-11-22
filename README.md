@@ -1,94 +1,138 @@
-### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
-This is the place where I opensource stuff and break things :rofl:
-
-- 🔭 &nbsp;I’m currently working on something cool :wink:
-- 🌱 &nbsp;I’m currently learning Flutter, Go
-- 💬 &nbsp;Ask me about anything related to Javascript/Typescript/Python or Angular/React/Express/Flask
-- 👨‍💻 &nbsp;Read more about my projects at [gautamkrishnar.com](https://www.gautamkrishnar.com/#portfolio)
-- ⚡ &nbsp;Fun fact: I :heart: :dog:s and Xbox Gaming (GamerTag: [GKRXtreme](https://account.xbox.com/en-us/profile?gamertag=GKRXtreme))
-
-📕 &nbsp;**Latest Blog Posts**
-<!-- BLOG-POST-LIST:START -->
-- [How to prevent GitHub from suspending your cronjob based triggers](https://dev.to/gautamkrishnar/how-to-prevent-github-from-suspending-your-cronjob-based-triggers-knf)
-- [How I built one of the top 20 most used Github Actions](https://www.gautamkrishnar.com/how-i-built-one-of-the-top-20-most-used-github-actions/)
-- [Show your latest dev.to posts automatically on your GitHub profile readme](https://dev.to/gautamkrishnar/show-your-latest-dev-to-posts-automatically-in-your-github-profile-readme-3nk8)
-- [God Mode in browsers: document.designMode = &quot;on&quot;](https://dev.to/gautamkrishnar/god-mode-in-browsers-document-designmode-on-2pmo)
-- [Skipping the Chrome &quot;Your connection is not private&quot; warning](https://dev.to/gautamkrishnar/quickbits-1-skipping-the-chrome-your-connection-is-not-private-warning-4kp1)
-<!-- BLOG-POST-LIST:END -->
-
-🔗 &nbsp;**Connect with me**
+# Hi there, I'm Denys 👋 <img src="https://github.com/BidiukDenis.png?size=300" alt="Denys Bidiuk" width="130" align="right"/>
+ 
+**Senior QA Engineer (Java)** · 6+ years in manual & automation testing · Ukraine 🇺🇦 · Open to remote
+ 
+<div align="center">
+ 
+<img src="https://media.giphy.com/media/l0K4n42JVSqqUvAQg/giphy.gif" alt="Quality Assurance" width="450"/>
+ 
+</div>
+ 
+## 🙋‍♂️ About me
+ 
+Results-driven **Senior QA Engineer** with **6+ years** of commercial experience in manual and automated testing of **web, mobile, API and high-load fintech / SaaS** applications serving millions of users. I specialize in **API test automation** with Java, Rest Assured, Postman and JMeter, and work hands-on with CI/CD, SQL validation, monitoring systems and Agile delivery.
+ 
+- 🏦 Currently ensuring quality of a **banking platform** used by millions of people
+- 🤖 Actively use **AI-assisted QA** (Claude Code, Cursor, Kiro, OpenAI) — built a **Java framework for testing AI model responses** for correctness, consistency and reliability
+- 🎓 **90+ certificates** — see them on [LinkedIn](https://www.linkedin.com/in/denys-bidiuk-38b597105/)
+- 🎸 Hobbies: guitar, sports and collecting
+ 
+## 📄 My CV
+ 
+[![CV on LinkedIn](https://img.shields.io/badge/View_my_CV_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denys-bidiuk-38b597105/)
+ 
+## 💼 Experience
+ 
+**🏦 Senior QA Engineer** — Large Systemically Important Bank (NDA) · *03/2024 – present*
+ 
+- Built and maintain **Java + Rest Assured** test suites for the bonus system and cashback flows — **~60% higher test coverage**
+ 
+- Automated regression of an electronic document archive with **JMeter** — **~40% less manual regression**
+ 
+- Early defect detection, incident triage, PCI DSS-level security & reliability standards
+ 
+**🎨 Middle QA Engineer** — [Vista Create](https://www.linkedin.com/company/vistacreateofficial/) · *10/2022 – 03/2024*
+ 
+- Automated tests (Java, Rest Assured) for a creative SaaS with millions of users — web & mobile
+- **A/B testing** with Optimizely, **localization testing** for **10+ markets**, billing & subscription flows
+- Debugging with Chrome DevTools and Sentry, performance testing with JMeter
+ 
+**🏠 Middle QA Engineer** — [OMO Systems](https://www.linkedin.com/company/omosystems/) · *06/2022 – 01/2023*
+ 
+- Led QA of a **Smart Home IoT** product from the first build to production release
+- Android & iOS testing, CRM/admin panel, role-based access, logs in Kibana & AWS CloudWatch, CI in Jenkins
+ 
+**🧪 QA Engineer** — [QATestLab](https://www.linkedin.com/company/qatestlab/) · *06/2020 – 06/2022*
+ 
+- Test documentation for **10+ client projects**: test plans, strategies, RTM, checklists, test cases
+- Functional, regression, smoke & usability testing of web and mobile apps; demos for international clients
+ 
+## 🛠️ Tools & Technologies
+ 
+**Test automation & performance**
+ 
 <p align="left">
-<a href="https://dev.to/gautamkrishnar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-<a href="https://twitter.com/gautamkrishnar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/gautamkrishnar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/4214976" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4214976" height="30" width="40" /></a>
-<a href="https://instagram.com/gautamkrishnar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-
-📊 &nbsp;**This week I spent my time on**
-
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=gautamkrishnar&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
-  
-### ✨&nbsp; About Me
-
-I am a Full Stack Developer with 9+ years of experience in developing enterprise applications and open-source software.
-
-#### My Opensource Story
-All of my projects are released as open-source on GitHub, this includes some of my GitHub trending projects:
-- [Nothing Private](https://github.com/gautamkrishnar/nothing-private) - This proof of concept project showcases the ability of any website to track and identify individuals, even when using private browsing or incognito mode in their web browser. With over 5000K users and 1.8K stars, it has garnered attention and discussions in privacy forums and conferences globally. Its impact has led to improvements from privacy-focused browser vendors to counter fingerprinting, and has increased public awareness of the dangers of browser fingerprinting.
-- [Blog Post Workflow](https://github.com/gautamkrishnar/blog-post-workflow) - A Github action to show your latest blog posts from any sources or StackOverflow activity or Youtube Videos on your GitHub profile/project readme automatically using the RSS feed. It is now used by over 5.6K+ users and running on thousands of GitHub actions runner every hour. It is also one of the top 20 [most used](https://github.com/marketplace?category=&query=sort%3Apopularity-desc&type=actions&verification=) GitHub actions internationally in GitHub Marketplace.
--  [SoCLI](https://github.com/gautamkrishnar/socli) Within 24 hours of its release, it garnered over 300 stars and now has nearly 2K users. This tool offers a convenient way of accessing StackOverflow directly from a terminal.
-- [Motrix WebExtension](https://github.com/gautamkrishnar/motrix-webextension) - A browser extension for the Motrix Download Manager. It now has more than 20K+ users worldwide.
-- [Refined GitHub Feeds](https://github.com/gautamkrishnar/refined-github-feeds) - A browser extension that adds filtering to the Github news feeds. 
-
-[⏩ &nbsp; and many more](https://github.com/gautamkrishnar?tab=repositories&q=&type=source&language=&sort=stargazers) 
-
-```
-  ____                  ____                      
- / __ \___  ___ ___    / __/__  __ _____________  
-/ /_/ / _ \/ -_) _ \  _\ \/ _ \/ // / __/ __/ -_) 
-\____/ .__/\__/_//_/ /___/\___/\_,_/_/  \__/\__/  
-   _/_/                  __  __   _               
-  / __/  _____ ______ __/ /_/ /  (_)__  ___ _     
- / _/| |/ / -_) __/ // / __/ _ \/ / _ \/ _ `/ _ _ 
-/___/|___/\__/_/  \_, /\__/_//_/_/_//_/\_, (_|_|_)
-                 /___/                /___/       
-```
-
-During my free time, I actively contribute to open-source projects on GitHub. Due to my significant contributions to DuckDuckGo, I was appointed as a maintainer and community leader with write access to all of DuckDuckGo's repositories. I have also made contributions to a variety of other open-source projects and organizations, including Mozilla, Angular, Svelte, Node.JS etc
-  
-I also maintain and contribute to a lot of community open-source projects and libraries. Some of the communities includes [Tinkerhub Foundation](https://tinkerhub.org/), [Kites Foundation](https://kitesfoundation.org/), [Mozilla Foundation](https://foundation.mozilla.org/en/), [Patternfly](https://www.patternfly.org/) etc. I strongly believe that the true value of open-source is not just the code, it's the community around it.
-
-You can read more about me and my open source journey at my website: [https://www.gautamkrishnar.com/](https://www.gautamkrishnar.com/)
-
-I create most of my open-source projects to solve the challenges I encounter in life, with many more still waiting to be addressed. I am embarking on a quest to find solutions for each one, one problem at a time.
-
-#### Awards and Achievements
-- Won the 1st edition of [GitHub India Open Source Grants](https://github.blog/2021-09-12-recipients-open-source-grants-github-sponsors-india/)
-- Worked as [DuckDuckGo Community Leader](https://help.duckduckgo.com/community/community-leaders/) and Maintainer
-- Won 1st place in Several Hackathons and events
-  
-<details>
-  <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
-  <br/>
-  <p align="left"> <a href="https://angular.io" target="_blank"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://cordova.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg" alt="apachecordova" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://circleci.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://gohugo.io/" target="_blank"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a> <a href="https://jasmine.github.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jekyllrb.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://karma-runner.github.io/latest/index.html" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/karma.svg" alt="karma" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://github.com/puppeteer/puppeteer" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://travis-ci.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-</details>
-
-<details>
-  <summary><b>📈&nbsp;&nbsp;Language&nbsp;/&nbsp;Framework stats</b></summary>
-  <br/>
-  <a href='https://profile.codersrank.io/user/gautamkrishnar/'>
-  <img src='http://cr-skills-chart-widget.azurewebsites.net/api/api?username=gautamkrishnar&padding=30&skills=angular,batchfile,c,C%23,coffeescript,dart,go,html,json,java,javascript,less,mysql,php,pandas,perl,python,reactjs,scss,shell,svelte,swift,typescript,vue'>
-  </a>
-
-</details>
-
-<details>
-  <summary><b>🔒&nbsp;&nbsp;PGP&nbsp;Public&nbsp;Key</b></summary>
-  <br/>
-
-
-</details>
-
-<img alt='analytics' src='https://profile-counter.glitch.me/gautamkrishnar/count.svg' width='0px'>
-
+<a href="https://www.java.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" title="Java" width="45" height="45"/></a>&nbsp;
+<a href="https://maven.apache.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" alt="Maven" title="Maven" width="45" height="45"/></a>&nbsp;
+<a href="https://jmeter.apache.org/" target="_blank"><img src="https://cdn.simpleicons.org/apachejmeter" alt="Apache JMeter" title="Apache JMeter" width="45" height="45"/></a>&nbsp;
+<a href="https://www.jetbrains.com/idea/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" title="IntelliJ IDEA" width="45" height="45"/></a>&nbsp;
+</p>
+ 
+**API testing & debugging**
+ 
+<p align="left">
+<a href="https://www.postman.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="Postman" title="Postman" width="45" height="45"/></a>&nbsp;
+<a href="https://swagger.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" alt="Swagger" title="Swagger" width="45" height="45"/></a>&nbsp;
+<a href="https://developer.chrome.com/docs/devtools" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chrome/chrome-original.svg" alt="Chrome DevTools" title="Chrome DevTools" width="45" height="45"/></a>&nbsp;
+</p>
+ 
+**CI/CD, cloud & monitoring**
+ 
+<p align="left">
+<a href="https://www.jenkins.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" alt="Jenkins" title="Jenkins" width="45" height="45"/></a>&nbsp;
+<a href="https://aws.amazon.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain.svg" alt="AWS" title="AWS" width="45" height="45"/></a>&nbsp;
+<a href="https://gitlab.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" alt="GitLab" title="GitLab" width="45" height="45"/></a>&nbsp;
+<a href="https://github.com/" target="_blank"><img src="https://cdn.simpleicons.org/github/9CA3AF" alt="GitHub" title="GitHub" width="45" height="45"/></a>&nbsp;
+<a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" title="Git" width="45" height="45"/></a>&nbsp;
+<a href="https://www.elastic.co/kibana" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kibana/kibana-original.svg" alt="Kibana" title="Kibana" width="45" height="45"/></a>&nbsp;
+<a href="https://sentry.io/" target="_blank"><img src="https://cdn.simpleicons.org/sentry/A78CFF" alt="Sentry" title="Sentry" width="45" height="45"/></a>&nbsp;
+<a href="https://newrelic.com/" target="_blank"><img src="https://cdn.simpleicons.org/newrelic" alt="New Relic" title="New Relic" width="45" height="45"/></a>&nbsp;
+</p>
+ 
+**Databases**
+ 
+<p align="left">
+<a href="https://www.postgresql.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="SQL" title="SQL" width="45" height="45"/></a>&nbsp;
+<a href="https://www.mongodb.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB" width="45" height="45"/></a>&nbsp;
+</p>
+ 
+**Test management, bug tracking & collaboration**
+ 
+<p align="left">
+<a href="https://www.atlassian.com/software/jira" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" alt="Jira" title="Jira" width="45" height="45"/></a>&nbsp;
+<a href="https://www.testrail.com/" target="_blank"><img src="https://cdn.simpleicons.org/testrail" alt="TestRail" title="TestRail" width="45" height="45"/></a>&nbsp;
+<a href="https://www.atlassian.com/software/confluence" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/confluence/confluence-original.svg" alt="Confluence" title="Confluence" width="45" height="45"/></a>&nbsp;
+<a href="https://figma.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="Figma" title="Figma" width="45" height="45"/></a>&nbsp;
+<a href="https://analytics.google.com/" target="_blank"><img src="https://cdn.simpleicons.org/googleanalytics" alt="Google Analytics" title="Google Analytics" width="45" height="45"/></a>&nbsp;
+</p>
+ 
+**AI tools**
+ 
+<p align="left">
+<a href="https://www.anthropic.com/claude-code" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/claude/claude-original.svg" alt="Claude Code" title="Claude Code" width="45" height="45"/></a>&nbsp;
+<a href="https://cursor.com/" target="_blank"><img src="https://cdn.simpleicons.org/cursor/9CA3AF" alt="Cursor" title="Cursor" width="45" height="45"/></a>&nbsp;
+</p>
+ 
+**Also worked with**
+ 
+<img src="https://img.shields.io/badge/Rest_Assured-2E2E2E?style=flat-square" alt="Rest Assured"/>
+<img src="https://img.shields.io/badge/TestNG-2E2E2E?style=flat-square" alt="TestNG"/>
+<img src="https://img.shields.io/badge/SoapUI-2E2E2E?style=flat-square" alt="SoapUI"/>
+<img src="https://img.shields.io/badge/Charles_Proxy-2E2E2E?style=flat-square" alt="Charles Proxy"/>
+<img src="https://img.shields.io/badge/Fiddler-2E2E2E?style=flat-square" alt="Fiddler"/>
+<img src="https://img.shields.io/badge/TestLink-2E2E2E?style=flat-square" alt="TestLink"/>
+<img src="https://img.shields.io/badge/Qase-2E2E2E?style=flat-square" alt="Qase"/>
+<img src="https://img.shields.io/badge/YouTrack-2E2E2E?style=flat-square" alt="YouTrack"/>
+<img src="https://img.shields.io/badge/Mantis-2E2E2E?style=flat-square" alt="Mantis"/>
+<img src="https://img.shields.io/badge/Optimizely-2E2E2E?style=flat-square" alt="Optimizely"/>
+<img src="https://img.shields.io/badge/Localise-2E2E2E?style=flat-square" alt="Localise"/>
+<img src="https://img.shields.io/badge/OpenAI-2E2E2E?style=flat-square" alt="OpenAI"/>
+<img src="https://img.shields.io/badge/Kiro-2E2E2E?style=flat-square" alt="Kiro"/>
+<img src="https://img.shields.io/badge/HTML_%2F_CSS-2E2E2E?style=flat-square" alt="HTML / CSS"/>
+<img src="https://img.shields.io/badge/PerfectPixel-2E2E2E?style=flat-square" alt="PerfectPixel"/>
+ 
+**Testing types:** Functional · Regression · Smoke · API · Performance · Mobile · A/B · Localization · Usability · Non-functional
+ 
+**Methodologies:** Agile · Scrum · Kanban · SDLC · STLC
+ 
+## 📊 GitHub Stats
+ 
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=BidiukDenis&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub stats" height="165"/>
+<img src="https://streak-stats.demolab.com?user=BidiukDenis&theme=tokyonight&hide_border=true" alt="GitHub streak" height="165"/>
+</p>
+ 
+## 📫 My contacts
+ 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denys-bidiuk-38b597105/)
+[![Email](https://img.shields.io/badge/-bidyukdenis@outlook.com-0078D4?style=flat-square&logo=maildotru&logoColor=white)](mailto:bidyukdenis@outlook.com)
