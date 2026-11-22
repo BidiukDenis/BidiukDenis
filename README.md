@@ -2,12 +2,7 @@
  
 **Senior QA Engineer (Java)** · 6+ years in manual & automation testing · Ukraine 🇺🇦 · Open to remote
  
-<div align="center">
- 
-<img src="https://media.giphy.com/media/l0K4n42JVSqqUvAQg/giphy.gif" alt="Quality Assurance" width="450"/>
- 
-</div>
- 
+
 ## 🙋‍♂️ About me
  
 Results-driven **Senior QA Engineer** with **6+ years** of commercial experience in manual and automated testing of **web, mobile, API and high-load fintech / SaaS** applications serving millions of users. I specialize in **API test automation** with Java, Rest Assured, Postman and JMeter, and work hands-on with CI/CD, SQL validation, monitoring systems and Agile delivery.
